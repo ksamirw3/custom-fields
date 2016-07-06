@@ -21,3 +21,19 @@ Thank you for considering contributing to the Laravel framework! The contributio
 ### License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+
+
+## Install
+
+clone git@github.com:ksamirw3/customFields.git
+
+composer install
+
+php artisan migrate
+
+##  links
+
+http://localhost/customfields/public/index.php/custom_fields
+
+http://localhost/customfields/public/index.php/products
+
